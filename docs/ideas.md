@@ -1,0 +1,53 @@
+## Ideas
+1. Помощник для составления докладов/презентаций для публичных выступлений
+2. Умеет составлять **презентацию** по заданной теме на основе видео, статей, предоставленной пользователем информации
+3. Умеет готовить **текст доклада** по заданной теме на основе видео, статей, предоставленной пользователем информации
+4. Умеет составлять подборку материалов по заданной теме
+5. При составлении доклада/презентации умеет подкреплять тезисы ссылками на источники
+6. Работает через Telegram бота
+7. Пользователь может задать тематику доклада, дать ссылки на материалы, предоставить сами материалы, таблицы
+8. Пользователь может задавать стилистику доклада/презентации, предоставлять изображения, инфографику, ключевые слова/выражения
+9. Пользователь может попросить использовать за основу готовую презентацию
+10. Интерактивный процесс редактирования доклада/презентации
+
+## Materials
+
+### AI services for presentations
+
+1. Napkin AI
+
+   [This AI Graphics Startup Is a Cheap, Easy Alternative to Adobe and Canva](https://www.cnet.com/tech/services-and-software/this-ai-graphics-startup-is-a-cheap-easy-alternative-to-adobe-and-canva/)
+
+   [Napkin AI](https://www.napkin.ai/)
+
+   Помогает сгенерировать текст доклада по промпту. Помогает сгенерировать инфографику, схематические изображения, иконки по тексту. **Не** создает готовую презентацию и слайды.
+2. Tome
+
+   [Tome](https://tome.app/)
+
+3. Magic Slides - плагин для Google Slides
+
+   [Magic Slides](https://workspace.google.com/marketplace/app/magicslides_app_gpt_for_slides/371894645570)
+4. Gamma
+
+   [Gamma](https://gamma.app/?ref=theresanaiforthat)
+5. Prezo
+
+   [Prezo](https://prezo.ai/)
+6. Slidebean
+
+   [Slidebean](https://slidebean.com/)
+7. Wepik
+
+   [Wepik](https://wepik.com/)
+8. Presentations.ai
+
+   [Presenatations.ai](https://www.presentations.ai/)
+9. Pitch
+
+   [Pitch](https://pitch.com/)
+10. GPT-4(o)
+## TO DO List
+1. Найти сервисы для генерации презентаций
+2. Продумать основные ценности для пользователя
+3. Продумать MVP
